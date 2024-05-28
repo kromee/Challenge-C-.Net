@@ -1,0 +1,14 @@
+/Users/eduardodominguez/Desktop/Cursos/01_StudentChallengeC#Net/Master _C#_netFundamentals/bin/Debug/net8.0/Master _C#_netFundamentals
+/Users/eduardodominguez/Desktop/Cursos/01_StudentChallengeC#Net/Master _C#_netFundamentals/bin/Debug/net8.0/Master _C#_netFundamentals.deps.json
+/Users/eduardodominguez/Desktop/Cursos/01_StudentChallengeC#Net/Master _C#_netFundamentals/bin/Debug/net8.0/Master _C#_netFundamentals.runtimeconfig.json
+/Users/eduardodominguez/Desktop/Cursos/01_StudentChallengeC#Net/Master _C#_netFundamentals/bin/Debug/net8.0/Master _C#_netFundamentals.dll
+/Users/eduardodominguez/Desktop/Cursos/01_StudentChallengeC#Net/Master _C#_netFundamentals/bin/Debug/net8.0/Master _C#_netFundamentals.pdb
+/Users/eduardodominguez/Desktop/Cursos/01_StudentChallengeC#Net/Master _C#_netFundamentals/obj/Debug/net8.0/Master _C#_netFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardodominguez/Desktop/Cursos/01_StudentChallengeC#Net/Master _C#_netFundamentals/obj/Debug/net8.0/Master _C#_netFundamentals.AssemblyInfoInputs.cache
+/Users/eduardodominguez/Desktop/Cursos/01_StudentChallengeC#Net/Master _C#_netFundamentals/obj/Debug/net8.0/Master _C#_netFundamentals.AssemblyInfo.cs
+/Users/eduardodominguez/Desktop/Cursos/01_StudentChallengeC#Net/Master _C#_netFundamentals/obj/Debug/net8.0/Master _C#_netFundamentals.csproj.CoreCompileInputs.cache
+/Users/eduardodominguez/Desktop/Cursos/01_StudentChallengeC#Net/Master _C#_netFundamentals/obj/Debug/net8.0/Master _C#_netFundamentals.dll
+/Users/eduardodominguez/Desktop/Cursos/01_StudentChallengeC#Net/Master _C#_netFundamentals/obj/Debug/net8.0/refint/Master _C#_netFundamentals.dll
+/Users/eduardodominguez/Desktop/Cursos/01_StudentChallengeC#Net/Master _C#_netFundamentals/obj/Debug/net8.0/Master _C#_netFundamentals.pdb
+/Users/eduardodominguez/Desktop/Cursos/01_StudentChallengeC#Net/Master _C#_netFundamentals/obj/Debug/net8.0/Master _C#_netFundamentals.genruntimeconfig.cache
+/Users/eduardodominguez/Desktop/Cursos/01_StudentChallengeC#Net/Master _C#_netFundamentals/obj/Debug/net8.0/ref/Master _C#_netFundamentals.dll
